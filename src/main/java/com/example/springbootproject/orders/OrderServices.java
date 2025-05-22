@@ -1,6 +1,5 @@
 package com.example.springbootproject.orders;
 
-import jakarta.persistence.criteria.Order;
 import org.springframework.stereotype.Service;
 
 @Service
